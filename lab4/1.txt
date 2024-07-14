@@ -1,0 +1,2 @@
+gcc -g -Wall -fopenmp -o omp_histogram lab4.c
+ ./omp_histogram 4

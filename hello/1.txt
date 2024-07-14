@@ -1,0 +1,2 @@
+mpirun --allow-run-as-root --oversubscribe  -np 8 exc
+mpicc -g -Wall -o exc lab1.c
